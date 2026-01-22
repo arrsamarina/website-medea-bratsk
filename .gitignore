@@ -1,0 +1,19 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Env
+.env
+
+# Logs
+*.log
+
+# Local DB / dumps (пусть будет)
+*.db
+*.sqlite
+*.sql
+
